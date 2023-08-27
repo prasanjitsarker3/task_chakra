@@ -1,0 +1,10 @@
+.active{
+    background-color: teal;
+    color: white;
+    padding: 6px;
+}
+.default{
+    background-color: gray;
+    color: black;
+    padding: 7px;
+}

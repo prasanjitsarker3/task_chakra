@@ -1,0 +1,56 @@
+[
+    {
+        "id": 1,
+        "name": "Music Festival",
+        "photo": "https://img.freepik.com/free-photo/close-up-recording-video-with-smartphone-during-concert-toned-picture_1153-6331.jpg?size=626&ext=jpg&ga=GA1.2.720187752.1692781749&semt=ais",
+        "title": "Summer Music Festival"
+    },
+    {
+        "id": 2,
+        "name": "Tech Conference",
+        "photo": "https://img.freepik.com/free-photo/people-having-fun-wedding-hall_1303-19593.jpg?size=626&ext=jpg&ga=GA1.2.720187752.1692781749&semt=ais",
+        "title": "InnovateTech Conference"
+    },
+    {
+        "id": 3,
+        "name": "Art Exhibition",
+        "photo": "https://img.freepik.com/free-photo/professional-equipment-camera-tripod-stand-field-front-prepared-table-evening-time_146671-14420.jpg?size=626&ext=jpg&ga=GA1.2.720187752.1692781749&semt=ais",
+        "title": "Expressions in Art"
+    },
+    {
+        "id": 4,
+        "name": "Food Fair",
+        "photo": "https://img.freepik.com/free-photo/violet-light-set-table-with-flowers_8353-10610.jpg?size=626&ext=jpg&ga=GA1.1.720187752.1692781749&semt=ais",
+        "title": "International Food Fair"
+    },
+    {
+        "id": 5,
+        "name": "Sports Tournament",
+        "photo": "https://img.freepik.com/premium-photo/gala-dinner-event-dinner-decor-dark-room-with-stage-lights-smoke_665346-2594.jpg?size=626&ext=jpg&ga=GA1.1.720187752.1692781749&semt=ais",
+        "title": "City Cup Soccer Tournament"
+    },
+    {
+        "id": 6,
+        "name": "Charity Gala",
+        "photo": "https://img.freepik.com/free-photo/close-up-recording-video-with-smartphone-during-concert_1153-7311.jpg?size=626&ext=jpg&ga=GA1.1.720187752.1692781749&semt=ais",
+        "title": "Hope for Tomorrow Gala"
+    },
+    {
+        "id": 7,
+        "name": "Fashion Show",
+        "photo": "https://img.freepik.com/premium-photo/group-people-classroom-with-man-blue-coat-glasses-pointing-glass-sphere-with-word-science-it_882954-17824.jpg?size=626&ext=jpg&ga=GA1.1.720187752.1692781749&semt=ais",
+        "title": "High Couture Fashion Showcase"
+    },
+    {
+        "id": 8,
+        "name": "Film Festival",
+        "photo": "https://img.freepik.com/premium-photo/group-people-classroom-with-man-blue-coat-glasses-pointing-glass-sphere-with-word-science-it_882954-17824.jpg?size=626&ext=jpg&ga=GA1.1.720187752.1692781749&semt=ais",
+        "title": "Cinematic Dreams Festival"
+    },
+    {
+        "id": 9,
+        "name": "Business Summit",
+        "photo": "https://img.freepik.com/premium-photo/group-people-classroom-with-man-blue-coat-glasses-pointing-glass-sphere-with-word-science-it_882954-17824.jpg?size=626&ext=jpg&ga=GA1.1.720187752.1692781749&semt=ais",
+        "title": "Global Business Leaders Summit"
+    }
+]
