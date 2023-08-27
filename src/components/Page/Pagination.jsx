@@ -1,6 +1,7 @@
 import { Button, Flex, Text } from "@chakra-ui/react";
 
 const Pagination = ({ pastPage, totalPage, setCurrentPage, currentPage }) => {
+    // Looping Section in pagination
     let pages = [];
     for (let i = 1; i <= Math.ceil(totalPage / pastPage); i++) {
         pages.push(i)
