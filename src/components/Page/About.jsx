@@ -33,7 +33,7 @@ const About = () => {
                 <Text>Country Information : {country.length}</Text>
                 <Country currentCountry={currentCountry}></Country>
                 <Pagination currentPage={currentPage} setCurrentPage={setCurrentPage}
-                 pastPage={pastPage} totalPage={country.length}></Pagination>
+                    pastPage={pastPage} totalPage={country.length}></Pagination>
             </VStack>
         </>
     )

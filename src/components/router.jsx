@@ -4,6 +4,8 @@ import Home from "./Page/Home";
 import About from "./Page/About";
 import Search from "./Page/Search";
 import Card from "./Page/Card";
+import Dashboard from "./Dashboard/Dashboard";
+import User from "./Dashboard/User/User";
 
 const router = createBrowserRouter([
     {
@@ -26,6 +28,14 @@ const router = createBrowserRouter([
             {
                 path: "card",
                 element: <Card></Card>
+            },
+            {
+                path: "dashboard",
+                element: <Dashboard></Dashboard>
+            },
+            {
+                path:"user",
+                element:<User></User>
             }
         ]
     }

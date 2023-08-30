@@ -1,0 +1,164 @@
+{
+    "students": [
+        {
+            "id": 1,
+            "name": "John Doe",
+            "class": "10A",
+            "roll_number": "101",
+            "present": 15,
+            "absent": 5
+        },
+        {
+            "id": 2,
+            "name": "Jane Smith",
+            "class": "9B",
+            "roll_number": "205",
+            "present": 20,
+            "absent": 2
+        },
+        {
+            "id": 3,
+            "name": "Michael Johnson",
+            "class": "11C",
+            "roll_number": "311",
+            "present": 25,
+            "absent": 1
+        },
+        {
+            "id": 4,
+            "name": "Emily Brown",
+            "class": "8A",
+            "roll_number": "408",
+            "present": 18,
+            "absent": 4
+        },
+        {
+            "id": 5,
+            "name": "Daniel Williams",
+            "class": "12B",
+            "roll_number": "502",
+            "present": 23,
+            "absent": 1
+        },
+        {
+            "id": 6,
+            "name": "Sophia Martinez",
+            "class": "9C",
+            "roll_number": "617",
+            "present": 17,
+            "absent": 3
+        },
+        {
+            "id": 7,
+            "name": "Liam Johnson",
+            "class": "11A",
+            "roll_number": "711",
+            "present": 22,
+            "absent": 2
+        },
+        {
+            "id": 8,
+            "name": "Olivia Davis",
+            "class": "10B",
+            "roll_number": "812",
+            "present": 19,
+            "absent": 3
+        },
+        {
+            "id": 9,
+            "name": "Noah Martinez",
+            "class": "9A",
+            "roll_number": "909",
+            "present": 21,
+            "absent": 1
+        },
+        {
+            "id": 10,
+            "name": "Emma Wilson",
+            "class": "8B",
+            "roll_number": "1004",
+            "present": 16,
+            "absent": 4
+        },
+        {
+            "id": 11,
+            "name": "Liam Garcia",
+            "class": "11C",
+            "roll_number": "1103",
+            "present": 23,
+            "absent": 2
+        },
+        {
+            "id": 12,
+            "name": "Ava Harris",
+            "class": "10A",
+            "roll_number": "1206",
+            "present": 18,
+            "absent": 3
+        },
+        {
+            "id": 13,
+            "name": "Noah Anderson",
+            "class": "9B",
+            "roll_number": "1308",
+            "present": 20,
+            "absent": 2
+        },
+        {
+            "id": 14,
+            "name": "Isabella Miller",
+            "class": "8C",
+            "roll_number": "1410",
+            "present": 19,
+            "absent": 3
+        },
+        {
+            "id": 15,
+            "name": "Mia Thompson",
+            "class": "12A",
+            "roll_number": "1505",
+            "present": 22,
+            "absent": 2
+        },
+        {
+            "id": 16,
+            "name": "Oliver Jackson",
+            "class": "11B",
+            "roll_number": "1607",
+            "present": 21,
+            "absent": 1
+        },
+        {
+            "id": 17,
+            "name": "Sophia Thomas",
+            "class": "10C",
+            "roll_number": "1701",
+            "present": 17,
+            "absent": 3
+        },
+        {
+            "id": 18,
+            "name": "Liam Rodriguez",
+            "class": "9A",
+            "roll_number": "1802",
+            "present": 20,
+            "absent": 2
+        },
+        {
+            "id": 19,
+            "name": "Ava Davis",
+            "class": "8B",
+            "roll_number": "1909",
+            "present": 18,
+            "absent": 3
+        },
+        {
+            "id": 20,
+            "name": "Jackson Wilson",
+            "class": "12C",
+            "roll_number": "2003",
+            "present": 24,
+            "absent": 1
+        }
+    ]
+}

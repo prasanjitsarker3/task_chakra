@@ -18,6 +18,6 @@ const routerTemplate = [
         id:4,
         routeName:"Card",
         path:"/card"
-    }
+    },
 ]
 export default routerTemplate;
